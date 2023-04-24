@@ -1,1 +1,61 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
 
+  h1 {
+    color: darkslategrey;
+  }
+  body {
+    background: grey ;
+  }
+
+  h2 {
+    color:lightgray
+  }
+
+  p {
+    color:lightgray
+  }
+  p {
+    border-style:inset
+  }
+  p{
+    border-color: darkgrey;
+  }
+
+  h1 {
+    border-style:inset
+  }
+
+  h1{
+    border-color:darkgrey
+  }
+
+  h2{
+    border-style:inset
+  }
+
+  h2{
+    border-color:darkgrey
+  }
+
+  img {
+    border-style:inset
+  }
+
+  img {
+    border-color:darkgrey
+  }
+
+  h4 {
+    color:lightgray
+  }
+
+  h4 {
+    border-style:inset
+  }
+
+  h4{
+    border-color:darkgray
+  }
