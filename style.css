@@ -67,3 +67,15 @@ html {
   input {
     border-color:darkgray
   }
+
+  h6 {
+    color:lightgray
+  }
+
+  h6 {
+    border-style:inset
+  }
+
+  h6 {
+    border-color:darkgray
+  }
