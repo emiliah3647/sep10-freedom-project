@@ -59,3 +59,11 @@ html {
   h4{
     border-color:darkgray
   }
+
+  input {
+    border-style:inset
+  }
+
+  input {
+    border-color:darkgray
+  }
